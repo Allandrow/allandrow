@@ -2,10 +2,9 @@
 
 <br />
 
-- French aspring front-end developer
+- French front-end developer
 - Previously Web Integrator for M6Boutique.com & Mistergooddeal.com
-- Currently following Openclassrooms' [Javascript-React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course
-
+- Freshly completed Openclassrooms' [Javascript-React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course
 
 <br />
 
@@ -17,9 +16,10 @@
 
 <br />
 
-
-### Feel free to check out my work and to contact me if needed !
+### Feel free to check out my work and to contact me if needed :
 
 <br />
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px"/>](https://www.linkedin.com/in/cyril-tiger/)
 
 Icons from [https://devicon.dev/](https://devicon.dev/)
