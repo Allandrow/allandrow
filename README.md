@@ -2,7 +2,7 @@
 
 <br />
 
-- French front-end developer
+- French front-end developer, soon working for Amiltone
 - Previously Web Integrator for M6Boutique.com & Mistergooddeal.com
 - Freshly completed Openclassrooms' [Javascript-React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course
 
