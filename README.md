@@ -2,9 +2,9 @@
 
 <br />
 
-- French front-end developer, employed by Amiltone and working with Siemens
+- French front-end developer, employed by Amiltone and working with Siemens since July 2022.
 - Previously Web Integrator for M6Boutique.com & Mistergooddeal.com
-- Freshly completed Openclassrooms' [Javascript-React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course
+- Completed Openclassrooms' [Javascript-React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course with diploma obtained in May 2022.
 
 <br />
 
